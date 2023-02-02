@@ -13,7 +13,7 @@
    thosttraderapi.py
    libthosttraderapi_se.so
    _thosttraderapi.so
-   thostmduserapi.so
+   thostmduserapi.py
    libthostmduserapi_se.so
    _thosttraderapi.so
 
